@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haris-Azhar&color=blue" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
